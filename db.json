@@ -1,0 +1,152 @@
+{
+  "departments" : [
+    {
+      "IT Department": {
+        "manager": {
+          "firstname": "David",
+          "lastname": "Jones",
+          "id": "ITM001",
+          "items": [
+            "Laptop",
+            "Desk",
+            "Monitor"
+          ]
+        },
+        "employees": [
+          {
+            "firstname": "Sarah",
+            "lastname": "Johnson",
+            "occupation": "Software Engineer",
+            "salary": 85000,
+            "id": "IT001",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          },
+          {
+            "firstname": "Michael",
+            "lastname": "Chen",
+            "occupation": "System Administrator",
+            "salary": 75000,
+            "id": "IT002",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Marketing Department": {
+        "manager": {
+          "firstname": "Emily",
+          "lastname": "Williams",
+          "id": "MKM001",
+          "items": [
+            "Laptop",
+            "Desk",
+            "Monitor"
+          ]
+        },
+        "employees": [
+          {
+            "firstname": "Jessica",
+            "lastname": "Nguyen",
+            "occupation": "Marketing Manager",
+            "salary": 90000,
+            "id": "MK001",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          },
+          {
+            "firstname": "Daniel",
+            "lastname": "Smith",
+            "occupation": "Marketing Specialist",
+            "salary": 65000,
+            "id": "MK002",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Finance Department": {
+        "manager": {
+          "firstname": "Ryan",
+          "lastname": "Johnson",
+          "id": "FNM001",
+          "items": [
+            "Laptop",
+            "Desk",
+            "Monitor"
+          ]
+        },
+        "employees": [
+          {
+            "firstname": "Ryan",
+            "lastname": "Thompson",
+            "occupation": "Financial Analyst",
+            "salary": 80000,
+            "id": "FN001",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          },
+          {
+            "firstname": "Amanda",
+            "lastname": "Wilson",
+            "occupation": "Accountant",
+            "salary": 70000,
+            "id": "FN002",
+            "items": [
+              "Laptop",
+              "Desk",
+              "Monitor"
+            ]
+          }
+        ]
+      }
+    },
+    {
+  "Human Resources Department": {
+    "manager": {
+      "firstname": "Jason",
+      "lastname": "Davis",
+      "id": "HRM001",
+      "items": ["Laptop", "Desk", "Monitor"]
+    },
+    "employees": [
+      {
+        "firstname": "Megan",
+        "lastname": "Smith",
+        "occupation": "HR Manager",
+        "salary": 95000,
+        "id": "HR001",
+        "items": ["Laptop", "Desk", "Monitor"]
+      },
+      {
+        "firstname": "David",
+        "lastname": "Brown",
+        "occupation": "Recruiter",
+        "salary": 70000,
+        "id": "HR002",
+        "items": ["Laptop", "Desk", "Monitor"]
+      }
+    ]
+  }
+}
+    ]
+}
