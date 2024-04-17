@@ -48,7 +48,11 @@
                 "model": "U2719D"
               }
             ],
-            "hobbies": ["Hiking", "Painting", "Playing Guitar"]
+            "hobbies": [
+              "Hiking",
+              "Painting",
+              "Playing Guitar"
+            ]
           },
           {
             "firstname": "Michael",
@@ -73,7 +77,11 @@
                 "model": "27UK850-W"
               }
             ],
-            "hobbies": ["Photography", "Cooking", "Playing Basketball"]
+            "hobbies": [
+              "Photography",
+              "Cooking",
+              "Playing Basketball"
+            ]
           }
         ]
       }
@@ -126,7 +134,11 @@
                 "model": "34WK650-W"
               }
             ],
-            "hobbies": ["Writing", "Dancing", "Photography"]
+            "hobbies": [
+              "Writing",
+              "Dancing",
+              "Photography"
+            ]
           },
           {
             "firstname": "Daniel",
@@ -151,7 +163,11 @@
                 "model": "EliteDisplay E243d"
               }
             ],
-            "hobbies": ["Reading", "Yoga", "Traveling"]
+            "hobbies": [
+              "Reading",
+              "Yoga",
+              "Traveling"
+            ]
           }
         ]
       }
@@ -204,7 +220,11 @@
                 "model": "VG248QG"
               }
             ],
-            "hobbies": ["Playing Piano", "Running", "Bird Watching"]
+            "hobbies": [
+              "Playing Piano",
+              "Running",
+              "Bird Watching"
+            ]
           },
           {
             "firstname": "Amanda",
@@ -229,7 +249,11 @@
                 "model": "S24F350"
               }
             ],
-            "hobbies": ["Hiking", "Painting", "Playing Tennis"]
+            "hobbies": [
+              "Hiking",
+              "Painting",
+              "Playing Tennis"
+            ]
           }
         ]
       }
@@ -282,7 +306,11 @@
                 "model": "Pavilion 22cwa"
               }
             ],
-            "hobbies": ["Horseback Riding", "Painting", "Swimming"]
+            "hobbies": [
+              "Horseback Riding",
+              "Painting",
+              "Swimming"
+            ]
           },
           {
             "firstname": "David",
@@ -307,7 +335,11 @@
                 "model": "S2421HGF"
               }
             ],
-            "hobbies": ["Playing Chess", "Gardening", "Watching Movies"]
+            "hobbies": [
+              "Playing Chess",
+              "Gardening",
+              "Watching Movies"
+            ]
           }
         ]
       }
